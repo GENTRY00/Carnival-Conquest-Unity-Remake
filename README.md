@@ -1,4 +1,4 @@
-# GameJam_unity
+# Carnival-Conquest-Unity-Remake
 A recreation of Carnival Conquest in Unity, developed after the game jam. This version allowed us to fix some of the original bugs without the constraints of a tight deadline and in a more familiar development environment.
 
 # FIEA Game Jam
